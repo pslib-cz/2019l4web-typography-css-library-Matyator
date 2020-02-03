@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&display=swap');
+
 body{
     margin: 0;
 }
@@ -56,6 +57,23 @@ figure{
 section img{
     position: relative;
     width: 100%;
+}
+figcaption{
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.315); 
+
+}
+footer{
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    line-height: 2.5rem;
+    margin: 3rem 0 3rem 0;
+}
+footer img{
+    border-radius: 50%;
+    height: 3.5rem;
+
 }
 @media (max-width:800px){
 main{
