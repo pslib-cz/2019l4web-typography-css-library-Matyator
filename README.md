@@ -38,13 +38,13 @@ Entire blog post has to be wrapped in `<body>`, `<main>`and `<article>` tag.
     
 ## List
     <ul>
-                        <li>Wireframing</li>
-                        <ul>
-                            <li>Whilst appearance is not a key element of wireframes...</li>
-                        </ul>
-                        <li>Prototyping</li>
-                        <ul>
-                            <li>A common part of our workflow is for designers to pick up each others work and offer a new perspective on a given UX challenge.</li>
-                        </ul>
-                   
-       </ul>
+      <li>Lorem ipsum dolor sit amet.</li>
+        <ul>
+          <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+        </ul>
+        
+       <li>Lorem ipsum dolor sit amet.</li>
+         <ul>
+           <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+         </ul>            
+    </ul>
