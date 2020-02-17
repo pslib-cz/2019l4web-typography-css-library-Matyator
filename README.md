@@ -1,1 +1,1 @@
-Whatsup man how ya doin?
+S css souborem naložte jak uznáte za vhodné.
