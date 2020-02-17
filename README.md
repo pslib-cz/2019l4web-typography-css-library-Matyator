@@ -10,3 +10,5 @@
     <!------------CSS import----------->
     <link rel="stylesheet" href="./Styles/style.css">
     </head>
+# Usage
+Entire blog post has to be wrapped in <body>, <main>, <article> tag.
