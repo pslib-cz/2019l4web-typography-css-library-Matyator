@@ -64,3 +64,11 @@ Entire blog post has to be wrapped in `<body>`, `<main>`and `<article>` tag.
        <strong>Autor:</strong>Name
        <a href="#website"></a>Date
     </footer>
+    
+## Text Highlighting
+
+### Bold text
+    <strong>Bold text</strong>
+    
+### Italic text
+    <i>Italic text</i>
