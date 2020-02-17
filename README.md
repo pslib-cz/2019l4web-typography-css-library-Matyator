@@ -48,3 +48,19 @@ Entire blog post has to be wrapped in `<body>`, `<main>`and `<article>` tag.
            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
          </ul>            
     </ul>
+    
+ ## Quote
+      <blockquote>“Duis aute irure dolor in reprehenderit”</blockquote>
+      
+ ## Aside
+     <aside>
+       <h3>Third heading</h3>
+         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+     </aside>
+     
+## Footer
+    <footer>
+       <img src="#" alt=#">
+       <strong>Autor:</strong>Name
+       <a href="#website"></a>Date
+    </footer>
