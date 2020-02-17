@@ -49,8 +49,9 @@ p{
 ul{
     font-family: 'Lato', sans-serif;
     font-size: 1.2rem;
-    line-height: 2.5rem;
-    margin: 1.4rem 0 2rem 0;
+    line-height: 1.58;
+    margin: 1.3rem 0 1.6rem 0;
+    padding-left: 1rem;
 }
 strong{
     font-weight: 800;
