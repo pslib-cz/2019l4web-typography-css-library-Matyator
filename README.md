@@ -24,7 +24,27 @@ Entire blog post has to be wrapped in `<body>`, `<main>`and `<article>` tag.
     <section>
      <div>
          <h2>The best article in the world</h2>
-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus et lorem id felis nonummy placerat. Integer malesuada. In dapibus augue non sapien. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Phasellus rhoncus. Nam sed tellus id magna elementum tincidunt. Nulla est. Duis pulvinar. Sed convallis magna eu sem. Nullam rhoncus aliquam metus. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim.
-           </p>
-      </section>
+         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+            Phasellus et lorem id felis nonummy placerat. Integer malesuada.
+            In dapibus augue non sapien. Nullam lectus justo.
+         </p>
+     </section>
+     
+## Image import
+    <figure>
+          <img src="#" alt="#">
+          <figcaption>Image Example 01</figcaption>
+    </figure>
+    
+## List
+    <ul>
+                        <li>Wireframing</li>
+                        <ul>
+                            <li>Whilst appearance is not a key element of wireframes...</li>
+                        </ul>
+                        <li>Prototyping</li>
+                        <ul>
+                            <li>A common part of our workflow is for designers to pick up each others work and offer a new perspective on a given UX challenge.</li>
+                        </ul>
+                   
+       </ul>
